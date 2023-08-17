@@ -1,0 +1,14 @@
+mädchen lány 99
+scheiße szar 100
+gehen menni 100
+schwimmen úszni 100
+kaufen vásárolni 88
+bleiben maradni 90
+reiten lovagolni 81
+stehen állni 4
+schießen lőni 41
+tag nap 22
+fliegen repülni 3
+sonne nap 90
+der_tisch asztal 100
+çé'st fasz 0
